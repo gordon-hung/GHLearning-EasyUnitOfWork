@@ -1,0 +1,6 @@
+@GHLearning.EasyUnitOfWork.WebApi_HostAddress = http://localhost:5009
+
+GET {{GHLearning.EasyUnitOfWork.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

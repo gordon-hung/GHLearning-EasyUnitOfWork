@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Linq.Async" Version="6.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GHLearning.EasyUnitOfWork.Repositories\GHLearning.EasyUnitOfWork.Repositories.csproj" />
+    <ProjectReference Include="..\GHLearning.EasyUnitOfWork\GHLearning.EasyUnitOfWork.csproj" />
+  </ItemGroup>
+
+</Project>

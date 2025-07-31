@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHLearning.EasyUnitOfWork.WebApi", "src\GHLearning.EasyUnitOfWork.WebApi\GHLearning.EasyUnitOfWork.WebApi.csproj", "{0FFB791F-4A63-4F01-B313-976887F5E968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHLearning.EasyUnitOfWork.Services", "src\GHLearning.EasyUnitOfWork.Services\GHLearning.EasyUnitOfWork.Services.csproj", "{FA223E77-B74A-49B2-B0CC-E069732E15DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHLearning.EasyUnitOfWork.Repositories", "src\GHLearning.EasyUnitOfWork.Repositories\GHLearning.EasyUnitOfWork.Repositories.csproj", "{D13F3F56-099F-4260-9D24-D7B436E12839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHLearning.EasyUnitOfWork", "src\GHLearning.EasyUnitOfWork\GHLearning.EasyUnitOfWork.csproj", "{8DF992DB-13FE-422A-8993-F857ADF39841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFB791F-4A63-4F01-B313-976887F5E968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFB791F-4A63-4F01-B313-976887F5E968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFB791F-4A63-4F01-B313-976887F5E968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFB791F-4A63-4F01-B313-976887F5E968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA223E77-B74A-49B2-B0CC-E069732E15DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA223E77-B74A-49B2-B0CC-E069732E15DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA223E77-B74A-49B2-B0CC-E069732E15DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA223E77-B74A-49B2-B0CC-E069732E15DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13F3F56-099F-4260-9D24-D7B436E12839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13F3F56-099F-4260-9D24-D7B436E12839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13F3F56-099F-4260-9D24-D7B436E12839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13F3F56-099F-4260-9D24-D7B436E12839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF992DB-13FE-422A-8993-F857ADF39841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF992DB-13FE-422A-8993-F857ADF39841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF992DB-13FE-422A-8993-F857ADF39841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF992DB-13FE-422A-8993-F857ADF39841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0FFB791F-4A63-4F01-B313-976887F5E968} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{FA223E77-B74A-49B2-B0CC-E069732E15DF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D13F3F56-099F-4260-9D24-D7B436E12839} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8DF992DB-13FE-422A-8993-F857ADF39841} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {864AE036-51E6-44EC-9BB0-45F88795FFF0}
+	EndGlobalSection
+EndGlobal
