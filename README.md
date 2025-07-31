@@ -1,6 +1,8 @@
 # GHLearning-EasyUnitOfWork
 
-Gordon Hung Learning Easy UnitOfWork
+[![.NET](https://github.com/gordon-hung/GHLearning-EasyUnitOfWork/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gordon-hung/GHLearning-EasyUnitOfWork/actions/workflows/dotnet.yml)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gordon-hung/GHLearning-EasyUnitOfWork)
 
 Unit of Work is the concept related to the effective implementation of the Repository Pattern. To understand this concept in better it is important to understand the concept of the Repository Pattern. We will not get into the details of the Repository Pattern in this discussion. But a small idea of this concept is necessary to proceed further.
 
